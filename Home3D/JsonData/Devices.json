@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Camera 1",
+    "latitude": 51.7128,
+    "longitude": 1.0060,
+    "type": "Camera"
+  },
+  {
+    "name": "Camera 2",
+    "latitude": 70.7130,
+    "longitude": -74.0055,
+    "type": "Camera"
+  },
+  {
+    "name": "Access Door 1",
+    "latitude": 20.7138,
+    "longitude": 74.0070,
+    "type": "Access Door"
+  },
+  {
+    "name": "Access Door 2",
+    "latitude": 40.7140,
+    "longitude": -30.0080,
+    "type": "Access Door"
+  }
+]

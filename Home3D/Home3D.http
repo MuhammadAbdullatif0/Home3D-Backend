@@ -1,0 +1,6 @@
+@Home3D_HostAddress = http://localhost:5068
+
+GET {{Home3D_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
