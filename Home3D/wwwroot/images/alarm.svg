@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.747" height="35.949" viewBox="0 0 37.747 35.949">
+  <g id="alarm" transform="translate(0 0)">
+    <g id="_005-turn-notifications-on-button" data-name="005-turn-notifications-on-button" transform="translate(0 0)">
+      <g id="notifications-on" transform="translate(0 0)">
+        <path id="Path_244" data-name="Path 244" d="M10.066,15.626,7.549,13.109A18.952,18.952,0,0,0,0,27.13H3.595A14.855,14.855,0,0,1,10.066,15.626Zm24.086,11.5h3.595a18.773,18.773,0,0,0-7.37-14.02l-2.516,2.516A15.2,15.2,0,0,1,34.152,27.13Zm-3.595.9A11.567,11.567,0,0,0,21.57,16.7V15.446a2.7,2.7,0,1,0-5.392,0V16.7A11.567,11.567,0,0,0,7.19,28.028v9.886L3.595,41.509v1.8H34.152v-1.8l-3.595-3.595ZM18.873,48.7h.719a3.126,3.126,0,0,0,2.516-2.157,3.387,3.387,0,0,0,.359-1.438h-7.19A3.605,3.605,0,0,0,18.873,48.7Z" transform="translate(0 -12.75)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
